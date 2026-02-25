@@ -14,9 +14,11 @@ can be repaired by multiple mechanics, and each mechanic can work on multiple ca
 For each service performed and for each mechanic working on it, we enter the working hours required, as well as the mechanic's comments on the repair.
 
 ER diagramm:
+
 <img width="664" height="602" alt="Στιγμιότυπο οθόνης (2)" src="https://github.com/user-attachments/assets/21d52903-8385-41ea-8bba-5d783e65d8f5" />
 
 Relational model:
+
 <img width="651" height="567" alt="Στιγμιότυπο οθόνης (3)" src="https://github.com/user-attachments/assets/26e0218a-e7d1-417b-9f29-4bb91853ef69" />
 
 The Car_dealership.sql file gives the SQL expressions for the following queries:
